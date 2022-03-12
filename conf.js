@@ -23,7 +23,7 @@ jsproxy_config({
       label: '香港节点',
       lines: {
         // 主机:权重
-        'lovemyself.top:8443': 1,
+        'example.com': 1,
       }
     },
 
